@@ -16,7 +16,7 @@ function App() {
         <p className='text-xs my-2 ml-0.5 font-figtree font-normal text-black'>
           Published 21 Dec 2023
         </p>
-        <p className='font-figtree font-bold'>
+        <p className='font-figtree font-bold hover:text-customYellow'>
           HTML & CSS foundations
         </p>
         <div>

@@ -745,3 +745,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.hover\:text-customYellow:hover {
+  --tw-text-opacity: 1;
+  color: hsl(47 88% 63% / var(--tw-text-opacity));
+}
